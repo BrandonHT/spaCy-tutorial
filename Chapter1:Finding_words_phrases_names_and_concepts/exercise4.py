@@ -1,5 +1,4 @@
-# Spacy Doc and Token objects, and lexical attributes to find percentages in a text.
-
+# spacy Doc and Token objects, and lexical attributes to find percentages in a text.
 from spacy.lang.en import English
 
 nlp = English()
