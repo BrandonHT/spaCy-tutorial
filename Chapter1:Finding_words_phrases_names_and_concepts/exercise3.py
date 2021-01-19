@@ -1,3 +1,4 @@
+# Iterating doc by spans
 from spacy.lang.en import English
 
 nlp = English()
